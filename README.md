@@ -1,7 +1,7 @@
 F*: Verification system for effectful programs
 ==============================================
 
-### F\* website
+### F\* website 
 
 More information on F\* can be found at www.fstar-lang.org
 
